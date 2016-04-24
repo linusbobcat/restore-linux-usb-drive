@@ -4,6 +4,8 @@ This allows you to restore Linux USB drives created using ``dd`` on OS X El Capi
 
 Do note that the main branch is the development branch. Use it as your own risk.
 
+It's currently missing copy (UI text) but should otherwise work.
+
 ## Credits:
 
 Portions of this program is based off Sam Daitzman's [elementary thumbdrive creator](https://github.com/sdaitzman/elementary-thumbdrive-creator) which is licensed under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with changes.
